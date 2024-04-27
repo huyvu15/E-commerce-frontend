@@ -36,10 +36,10 @@ const BoxItems = () => {
             content={
               <>
                 <p>
-                  <a href="mailto:location@website.com">location@website.com</a>
+                  <a href="mailto:hustvuvanhuy@gmail.com">hustvuvanhuy@gmail.com</a>
                 </p>
                 <p>
-                  <a href="tel:602-762-472-96">+(602) 762 472 96</a>
+                  <a href="tel:(+84) 827 590 544">+(602) (+84) 827 590 544</a>
                 </p>
               </>
             }
@@ -52,10 +52,10 @@ const BoxItems = () => {
                 <p>
                   <a
                     rel="noreferrer"
-                    href="https://www.google.com/maps/place/102+Thompson+St,+New+York,+NY+10012,+USA/@40.7255437,-74.004061,17z/data=!3m1!4b1!4m5!3m4!1s0x89c2598c338f691d:0x6d5f394e7a1962cc!8m2!3d40.7255397!4d-74.0018723"
+                    href="https://www.google.com/maps/place/1+%C4%90%E1%BA%A1i+C%E1%BB%93+Vi%E1%BB%87t,+B%C3%A1ch+Khoa,+Hai+B%C3%A0+Tr%C6%B0ng,+H%C3%A0+N%E1%BB%99i,+Vi%E1%BB%87t+Nam/@21.0074279,105.8399398,17z/data=!3m1!4b1!4m6!3m5!1s0x3135ab8a922653a9:0x6c2ec19683313eab!8m2!3d21.0074229!4d105.8425147!16s%2Fg%2F11gfjt79ty?entry=ttu"
                     target="_blank"
                   >
-                    88 New South Head Rd, Triple, New York
+                    1 Dai Co Viet, Hai Ba Trung, HaNoi, VietNam
                   </a>
                 </p>
               </>
