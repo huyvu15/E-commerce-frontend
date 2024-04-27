@@ -2,7 +2,7 @@ import React from "react";
 
 const social_links = [
   {
-    link: "http://facebook.com",
+    link: "http://facebook.com/@Glutis15",
     target: "_blank",
     icon: "fa-brands fa-facebook-f",
     name: "Facebook",
@@ -14,13 +14,13 @@ const social_links = [
     name: "Twitter",
   },
   {
-    link: "https://www.linkedin.com/",
+    link: "https://www.linkedin.com/in/huyvu15",
     target: "_blank",
     icon: "fa-brands fa-linkedin-in",
     name: "Linkedin",
   },
   {
-    link: "https://www.youtube.com/",
+    link: "https://www.youtube.com/@Glutis15",
     target: "_blank",
     icon: "fa-brands fa-youtube",
     name: "Youtube",
