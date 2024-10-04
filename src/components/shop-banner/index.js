@@ -14,7 +14,7 @@ const ShopBanner = () => {
               <div className="banner__content">
                 <span>Apple iPhone 12 Pro</span>
                 <h3 className="banner__title">
-                  <Link href="/shop">The wait is on: iphone 12 max pro</Link>
+                  <Link href="/shop">The wait  is on: iphone 12 max pro</Link>
                 </h3>
                 <p>Last call for up to <span>32%</span> off! </p>
 

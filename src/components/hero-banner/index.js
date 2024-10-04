@@ -19,7 +19,7 @@ const slider_data = [
     ),
     title: (
       <>
-        Find Best <br /> Matley Sound.
+        ✨Team “Vòng vo bán vòng tay” <br /> say hi ✨
       </>
     ),
     img: slider_img_1,
@@ -33,7 +33,7 @@ const slider_data = [
     ),
     title: (
       <>
-        Find your <br /> Beats Studio.
+        Vòng Tay <br /> Cá Tính
       </>
     ),
     img: slider_img_2,
@@ -47,7 +47,7 @@ const slider_data = [
     ),
     title: (
       <>
-        Music To <br /> Fill Your Heart
+        Vòng Tay <br /> Vòng Vo
       </>
     ),
     img: slider_img_3,
