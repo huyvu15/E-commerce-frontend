@@ -16,7 +16,7 @@ const About = () => {
         subtitle="About us"
         title={
           <>
-            Welcome to our <br /> VH Shop
+            Welcome to our <br /> tiemcaivongne shop
           </>
         }
       />

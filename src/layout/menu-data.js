@@ -16,6 +16,11 @@ const menu_data = [
   },
   {
     id: 4,
+    title: 'Contact us',
+    link: '/contact'
+  },
+  {
+    id: 5,
     hasDropdown: true,
     title: 'Pages',
     link: '/about',
@@ -31,11 +36,6 @@ const menu_data = [
       { title: 'Checkout', link: '/checkout' },
       { title: 'Error 404', link: '/404' },
     ]
-  },
-  {
-    id: 5,
-    title: 'Contact us',
-    link: '/contact'
   },
 ]
 

@@ -13,7 +13,7 @@ const AboutTopBar = () => {
             <div className="about__heading-content text-center p-relative z-index-1">
               <span className="about__heading-subtitle">About us</span>
               <h3 className="about__heading-title">
-              Welcome to our <br /> VH Shop.
+              Welcome to our <br /> tiemcaivongne shop
               </h3>
             </div>
           </div>

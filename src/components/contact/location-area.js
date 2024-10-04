@@ -19,7 +19,7 @@ function SingleLocationItem({ title, icon, location, tel }) {
               </div>
               <div className="contact__location-content">
                 <p>
-                  <a href="mailto:hustvuvanhuy@gmail.com">{location}</a>
+                  <a href="mailto:tiemcaivongne@gmail.com">{location}</a>
                 </p>
                 <p>
                   <a href="tel:686-324-6838">{tel}</a>
@@ -67,13 +67,13 @@ const LocationArea = () => {
               <SingleLocationItem
                 title="Australia Office"
                 icon={location_icon_1}
-                location="hustvuvanhuy@gmail.com"
+                location="tiemcaivongne@gmail.com"
                 tel="686-324-6838"
               />
               <SingleLocationItem
                 title="San Francisco Office"
                 icon={location_icon_2}
-                location="hustvuvanhuy@gmail.com"
+                location="tiemcaivongne@gmail.com"
                 tel="686-324-6810"
               />
               <SingleLocationItem

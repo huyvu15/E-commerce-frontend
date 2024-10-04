@@ -5,8 +5,8 @@ import { Swiper, SwiperSlide } from "swiper/react";
 import { EffectFade } from "swiper";
 // internal
 import slider_img_1 from "@assets/img/slider/13/slider-1.png";
-import slider_img_2 from "@assets/img/slider/13/slider-1.png";
-import slider_img_3 from "@assets/img/slider/13/slider-1.png";
+import slider_img_2 from "@assets/img/slider/13/slider-2.png";
+import slider_img_3 from "@assets/img/slider/13/slider-3.png";
 import { RightArrow } from "@svg/index";
 
 const slider_data = [
@@ -14,7 +14,7 @@ const slider_data = [
     id: 1,
     pre_title: (
       <>
-        Best Ear <br /> Headphones
+        Best  <br /> Bracelets
       </>
     ),
     title: (
@@ -28,7 +28,7 @@ const slider_data = [
     id: 2,
     pre_title: (
       <>
-        Best Ear <br /> Headphones
+        Best  <br /> Bracelets
       </>
     ),
     title: (
@@ -42,7 +42,7 @@ const slider_data = [
     id: 3,
     pre_title: (
       <>
-        Best Ear <br /> Headphones
+        Best  <br /> Bracelets
       </>
     ),
     title: (
